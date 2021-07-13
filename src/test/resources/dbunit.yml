@@ -1,0 +1,6 @@
+raiseExceptionOnCleanUp: true
+properties:
+  batchedStatements:  true
+  caseSensitiveTableNames: true
+  datatypeFactory: !!org.dbunit.ext.mysql.MySqlDataTypeFactory {}
+  mergeDataSets: false
